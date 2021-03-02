@@ -1,2 +1,2 @@
-let progress = 'A';
-console.log();
+let progress = 'A -> B';
+console.log(progress);
